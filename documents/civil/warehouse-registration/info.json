@@ -1,0 +1,71 @@
+{
+  "id": "warehouse-registration",
+  "number": "417",
+  "title": "물류창고업등록(변경) 신청",
+  "category": "등록",
+  "law": "물류시설의 개발 및 운영에 관한 법률 제21조의2",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "-",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427",
+  "processingPeriod": "14일",
+  "shortenedPeriod": "7일",
+  "fee": "10,000원 납부",
+  "feeSimple": "10,000원",
+  "requiredDocuments": [
+    {
+      "name": "물류창고업 등록(변경) 신청서 1부",
+      "type": "필수",
+      "note": "별지 제1호서식"
+    },
+    {
+      "name": "사업운영계획서 1부",
+      "type": "필수",
+      "note": "신규등록 시"
+    },
+    {
+      "name": "변경사항을 증명하는 서류 1부",
+      "type": "해당 시",
+      "note": "변경등록 신청의 경우"
+    },
+    {
+      "name": "외국인 결격사유 미해당 증명서류 (아포스티유 또는 영사확인서)",
+      "type": "해당 시",
+      "note": "신청인이 외국인인 경우"
+    }
+  ],
+  "officialCheck": [
+    "법인 등기사항증명서(신청인이 법인인 경우만 해당)",
+    "건물등기부 등본",
+    "토지등기부 등본",
+    "건축물대장"
+  ],
+  "reviewCriteria": [
+    "물류창고업 등록기준에 부합하는지 여부 확인",
+    "물류창고 사용에 대한 정당한 권리를 가지는지 여부",
+    "물류창고에 화물을 쌓아 놓는 행위가 가능한지 여부",
+    "건축법에 따른 창고시설일 것"
+  ],
+  "process": [
+    "신청서 작성",
+    "접수",
+    "심사",
+    "결재",
+    "등록대장 및 등록증 작성",
+    "등록증 발급"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 1,
+    "formPage": 2,
+    "bookletPage": "1539~1540"
+  },
+  "form": {
+    "title": "물류창고업 [ ]등록 [ ]변경등록 신청서",
+    "formNumber": "물류창고업 등록에 관한 규칙 [별지 제1호서식]",
+    "revisionDate": "2017. 4. 20.",
+    "pdf": "documents/civil/warehouse-registration/form.pdf",
+    "image": "documents/civil/warehouse-registration/form-page-01.png"
+  }
+}

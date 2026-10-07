@@ -1,0 +1,63 @@
+{
+  "id": "permit-reissue",
+  "number": "428",
+  "title": "허가증 재발급 신청",
+  "category": "단순민원",
+  "law": "화물자동차운수사업법시행규칙 제8조 제2항",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "화물대장조회",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427～8",
+  "processingPeriod": "즉시",
+  "shortenedPeriod": "-",
+  "fee": "1건당 2,000원",
+  "feeSimple": "2,000원",
+  "requiredDocuments": [
+    {
+      "name": "허가증재발급신청서 1부",
+      "type": "필수",
+      "note": "별지 제6호서식"
+    },
+    {
+      "name": "본인임을 증빙할 수 있는 서류 1부 (주민등록증, 운전면허증 등)",
+      "type": "필수",
+      "note": "본인 확인용"
+    },
+    {
+      "name": "허가증분실 사유서",
+      "type": "해당 시",
+      "note": "분실한 경우"
+    },
+    {
+      "name": "기존 허가증 원본 1부",
+      "type": "해당 시",
+      "note": "헐어 못쓰게 된 경우에 한함"
+    }
+  ],
+  "officialCheck": [
+    "화물대장 및 자동차등록 프로그램 열람을 통한 등록 여부 확인"
+  ],
+  "reviewCriteria": [
+    "화물대장 및 자동차등록 프로그램 열람하여 등록여부 확인"
+  ],
+  "process": [
+    "접수 (민원실)",
+    "서류 확인 (자동차관리과)",
+    "화물대장 확인 및 허가증 재교부",
+    "허가증 교부"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 5,
+    "formPage": 6,
+    "bookletPage": "1567~1568"
+  },
+  "form": {
+    "title": "허가증재발급신청서",
+    "formNumber": "화물자동차 운수사업법 시행규칙 [별지 제6호서식]",
+    "revisionDate": "2017. 1. 6.",
+    "pdf": "documents/civil/permit-reissue/form.pdf",
+    "image": "documents/civil/permit-reissue/form-page-01.png"
+  }
+}

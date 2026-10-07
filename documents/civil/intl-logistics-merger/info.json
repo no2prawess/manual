@@ -1,0 +1,69 @@
+{
+  "id": "intl-logistics-merger",
+  "number": "439",
+  "title": "국제물류주선업 법인합병 신고",
+  "category": "신고",
+  "law": "물류정책기본법 제45조제2항",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "-",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427",
+  "processingPeriod": "2일",
+  "shortenedPeriod": "-",
+  "fee": "수수료 없음",
+  "feeSimple": "무료",
+  "requiredDocuments": [
+    {
+      "name": "국제물류주선업법인합병신고서 1부",
+      "type": "필수",
+      "note": "별지 제11호서식"
+    },
+    {
+      "name": "합병계약서 사본 1부",
+      "type": "필수",
+      "note": "계약서"
+    },
+    {
+      "name": "합병당사자 법인의 최근 1년 이내 사업용고정자산 명세서 1부",
+      "type": "필수",
+      "note": "자산 증빙"
+    },
+    {
+      "name": "외국인 임원 결격사유 미해당 증명서류 (아포스티유 또는 영사확인서)",
+      "type": "해당 시",
+      "note": "합병 후 임원이 외국인인 경우"
+    },
+    {
+      "name": "외국인투자기업 증명 서류",
+      "type": "해당 시",
+      "note": "합병 후 법인이 외투기업인 경우"
+    }
+  ],
+  "officialCheck": [
+    "법인 등기사항증명서",
+    "외국법인 국내 영업소 설치 등기사항증명서 (해당 시)"
+  ],
+  "reviewCriteria": [
+    "서류 확인 후 신고 수리"
+  ],
+  "process": [
+    "신고서 작성 및 접수",
+    "검토 및 결재",
+    "신고수리",
+    "통보"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 27,
+    "formPage": 28,
+    "bookletPage": "1589~1590"
+  },
+  "form": {
+    "title": "국제물류주선업법인합병신고서",
+    "formNumber": "물류정책기본법 시행규칙 [별지 제11호서식]",
+    "revisionDate": "2016. 4. 11.",
+    "pdf": "documents/civil/intl-logistics-merger/form.pdf",
+    "image": "documents/civil/intl-logistics-merger/form-page-01.png"
+  }
+}

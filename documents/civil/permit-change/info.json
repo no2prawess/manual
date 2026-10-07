@@ -1,0 +1,76 @@
+{
+  "id": "permit-change",
+  "number": "431",
+  "title": "화물자동차운송사업 변경허가신청",
+  "category": "허가",
+  "law": "화물자동차운수사업법 제3조",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "-",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427～8",
+  "processingPeriod": "20일",
+  "shortenedPeriod": "10일",
+  "fee": "1건당 기본 5,000원 + 차량 1대 추가당 2,000원 합산",
+  "feeSimple": "기본 5,000원 (+대당 2,000원)",
+  "requiredDocuments": [
+    {
+      "name": "화물자동차운송사업변경허가신청서 1부",
+      "type": "필수",
+      "note": "별지 제7호서식"
+    },
+    {
+      "name": "자동차등록증 사본",
+      "type": "필수",
+      "note": "차량 확인"
+    },
+    {
+      "name": "신·구 허가사항을 대조한 서류 1부",
+      "type": "필수",
+      "note": "변경대비표"
+    },
+    {
+      "name": "화물자동차운송사업허가증 원본",
+      "type": "해당 시",
+      "note": "허가증 내 내용변경 시"
+    },
+    {
+      "name": "전·후 제원대비표, 자동차등록증 사본",
+      "type": "해당 시",
+      "note": "구조변경 시"
+    },
+    {
+      "name": "차고지 설치 확인서 1부 및 매매계약서/양도증명서/자동차제작증 1부",
+      "type": "해당 시",
+      "note": "증차를 수반하는 경우"
+    }
+  ],
+  "officialCheck": [
+    "자료 확인 필요 (법인등기사항증명서 등)"
+  ],
+  "reviewCriteria": [
+    "관련 서류 검토",
+    "타 시도 전출 시 해당 시·군·구에 서류 이관"
+  ],
+  "process": [
+    "신청서 작성 및 접수 (민원실)",
+    "서류 확인 및 검토 (자동차관리과)",
+    "예비허가 (통보)",
+    "시설 등 확인",
+    "변경허가 수리 및 타시도 서류 이관",
+    "변경허가증 교부"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 11,
+    "formPage": 12,
+    "bookletPage": "1573~1574"
+  },
+  "form": {
+    "title": "화물자동차운송사업변경허가신청서",
+    "formNumber": "화물자동차 운수사업법 시행규칙 [별지 제7호서식]",
+    "revisionDate": "2016. 6. 30.",
+    "pdf": "documents/civil/permit-change/form.pdf",
+    "image": "documents/civil/permit-change/form-page-01.png"
+  }
+}

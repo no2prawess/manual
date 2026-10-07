@@ -1,0 +1,74 @@
+{
+  "id": "intl-logistics-reg",
+  "number": "436",
+  "title": "국제물류주선업(등록/변경등록) 신청",
+  "category": "등록",
+  "law": "물류정책기본법 제43조제1항",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "-",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427",
+  "processingPeriod": "등록 10일 / 변경등록 5일",
+  "shortenedPeriod": "5일",
+  "fee": "20,000원",
+  "feeSimple": "20,000원",
+  "requiredDocuments": [
+    {
+      "name": "국제물류주선업 [ ]등록 [ ]변경등록 신청서 1부",
+      "type": "필수",
+      "note": "별지 제5호서식"
+    },
+    {
+      "name": "물류정책기본법 등록기준 적합 증명서류 1부 (자본금 3억원 이상 등)",
+      "type": "필수",
+      "note": "등록 시"
+    },
+    {
+      "name": "자기 명의 선하증권(B/L) 및 항공화물운송장(AWB) 양식·약관 서류",
+      "type": "필수",
+      "note": "등록 시"
+    },
+    {
+      "name": "변경 사실을 증명하는 서류 1부",
+      "type": "해당 시",
+      "note": "변경등록 신청 시"
+    },
+    {
+      "name": "외국인 결격사유 미해당 증명서류 (아포스티유 또는 영사확인서)",
+      "type": "해당 시",
+      "note": "외국인/외국법인 임원"
+    },
+    {
+      "name": "외국인투자 촉진법에 따른 외국인투자 증명 서류",
+      "type": "해당 시",
+      "note": "외국인투자기업"
+    }
+  ],
+  "officialCheck": [
+    "법인 등기사항증명서 (신청인이 법인인 경우)",
+    "외국인등록 사실증명 또는 여권 정보 (해당 시)"
+  ],
+  "reviewCriteria": [
+    "서류 확인 후 등록기준 부합 여부 심사 및 등록"
+  ],
+  "process": [
+    "신청서 작성 및 접수",
+    "서류 심사 및 결격여부 확인",
+    "등록증 작성",
+    "등록증 발급"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 21,
+    "formPage": 22,
+    "bookletPage": "1583~1584"
+  },
+  "form": {
+    "title": "국제물류주선업 [ ]등록 [ ]변경등록 신청서",
+    "formNumber": "물류정책기본법 시행규칙 [별지 제5호서식]",
+    "revisionDate": "2016. 4. 11.",
+    "pdf": "documents/civil/intl-logistics-reg/form.pdf",
+    "image": "documents/civil/intl-logistics-reg/form-page-01.png"
+  }
+}

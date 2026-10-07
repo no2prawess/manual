@@ -1,0 +1,68 @@
+{
+  "id": "intl-logistics-inheritance",
+  "number": "438",
+  "title": "국제물류주선업 상속 신고",
+  "category": "신고",
+  "law": "물류정책기본법 제45조제2항",
+  "submissionTo": "자동차관리과",
+  "viaInquiry": "-",
+  "dispositionAuthority": "남양주시장",
+  "department": "자동차관리과",
+  "phone": "031)590-2427",
+  "processingPeriod": "2일",
+  "shortenedPeriod": "-",
+  "fee": "수수료 없음",
+  "feeSimple": "무료",
+  "requiredDocuments": [
+    {
+      "name": "국제물류주선업상속신고서 1부",
+      "type": "필수",
+      "note": "별지 제10호서식"
+    },
+    {
+      "name": "상속인과 피상속인의 관계 증명 서류 1부 (가족관계증명서 등)",
+      "type": "필수",
+      "note": "상속관계 확인"
+    },
+    {
+      "name": "동순위 상속인 동의서 1부",
+      "type": "해당 시",
+      "note": "동순위 다른 상속인이 있는 경우"
+    },
+    {
+      "name": "피상속인 사망 증명 서류 1부",
+      "type": "필수",
+      "note": "사망진단서 또는 기본증명서"
+    },
+    {
+      "name": "외국인 결격사유 미해당 증명서류 (아포스티유 또는 영사확인서)",
+      "type": "해당 시",
+      "note": "상속인이 외국인인 경우"
+    }
+  ],
+  "officialCheck": [
+    "자료 확인 필요 (주민등록등본, 결격사유 확인 등)"
+  ],
+  "reviewCriteria": [
+    "서류 확인 후 신고 수리"
+  ],
+  "process": [
+    "신고서 작성 및 접수",
+    "검토 및 결재",
+    "신고수리",
+    "통보"
+  ],
+  "source": {
+    "file": "민원사무편람 책자(화물팀).pdf",
+    "infoPage": 25,
+    "formPage": 26,
+    "bookletPage": "1587~1588"
+  },
+  "form": {
+    "title": "국제물류주선업상속신고서",
+    "formNumber": "물류정책기본법 시행규칙 [별지 제10호서식]",
+    "revisionDate": "2016. 4. 11.",
+    "pdf": "documents/civil/intl-logistics-inheritance/form.pdf",
+    "image": "documents/civil/intl-logistics-inheritance/form-page-01.png"
+  }
+}
